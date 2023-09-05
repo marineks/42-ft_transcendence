@@ -1,29 +1,31 @@
 # FT_Transcendence
 
-<img src="frontend/public/assets/sujet-1erecouv.png" alt="Subject" width="300" style="text-align:center"/>
+<p align="center">
+<img src="frontend/public/assets/sujet-1erecouv.png" alt="Subject" width="300"/>
+</p>
 
-## Table of contents
+## Table of contents 📖
 
-- [About](#about)
-- [Mandatory requirements](#mandatory-requirements)
+- [About 🧬](#about---)
+  * [Tech stack ⌨](#tech-stack--)
+- [Mandatory requirements 📍](#mandatory-requirements---)
   * [1. A Single Page Application (S.P.A.) …](#1-a-single-page-application--spa---)
   * [… who is secure 🔐](#--who-is-secure---)
-  * [2. An Elaborate User Account  💫](#2-an-elaborate-user-acc----)
+  * [2. An Elaborate User Account  💫](#2-an-elaborate-user-account----)
   * [3. A Complete Chat 🗨️😼](#3-a-complete-chat------)
   * [4. A Triple-A Game 🎮](#4-a-triple-a-game---)
-- [Demo](#demo)
-- [Authors](#authors)
-- [Some great resources to get you started](#some-great-resources-to-get-you-started)
+- [Demo 🔬](#demo---)
+- [Authors 🪧](#authors---)
+- [Some great resources to get you started 📝](#some-great-resources-to-get-you-started---)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
-
-## About
+## About 🧬
 
 FT_Transcendence is the last project of [42's common core](https://42.fr/le-programme/apprentissage-innovant/). This project is about building a website which hosts a Pong competition. Thanks to this website, users will be able to play Pong with each other. They will have a user interface, a chat and in-realtime online multiplayer games.
 
-### Tech stack
+### Tech stack ⌨
 
 - Backend : **NestJS**
 - Database : **PostgreSQL**
@@ -38,7 +40,7 @@ FT_Transcendence is the last project of [42's common core](https://42.fr/le-prog
 
 
 
-## Mandatory requirements
+## Mandatory requirements 📍
 
 ### 1. A Single Page Application (S.P.A.) …
 
@@ -93,9 +95,9 @@ FT_Transcendence is the last project of [42's common core](https://42.fr/le-prog
 - [x]  Additional features can be added to the game, but a vanilla mode must be present!
 - [x]  The game must also be responsive
 
-## Demo
+## Demo 🔬
 
-## Authors
+## Authors 🪧
 
 This was a group project made with 🤍 by four people:
 - Fahima [@fahima8897](https://www.github.com/fahima8897)
@@ -103,5 +105,5 @@ This was a group project made with 🤍 by four people:
 - Simon [@smaugdela](https://www.github.com/smaugdela)
 - Marine [@marineks](https://www.github.com/marineks)
 
-## Some great resources to get you started
+## Some great resources to get you started 📝
 
