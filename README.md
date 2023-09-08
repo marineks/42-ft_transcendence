@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="frontend/public/assets/sujet-1erecouv.png" alt="Subject" width="300"/>
+<img src="frontend/public/assets/homepage.png" alt="Subject" width="600"/>
 </p>
 
 ## Table of contents 📖
@@ -96,6 +97,16 @@ FT_Transcendence is the last project of [42's common core](https://42.fr/le-prog
 - [x]  The game must also be responsive
 
 ## Demo 🔬
+
+<p align="center">
+<img src="frontend/public/assets/login.png" alt="Subject" width="600"/>
+<img src="frontend/public/assets/settings.png" alt="Subject" width="600"/>
+<img src="frontend/public/assets/leaderboard.png" alt="Subject" width="600"/>
+<img src="frontend/public/assets/socials.png" alt="Subject" width="600"/>
+<img src="frontend/public/assets/profile.png" alt="Subject" width="600"/>
+<img src="frontend/public/assets/channels.png" alt="Subject" width="600"/>
+<img src="frontend/public/assets/chat.png" alt="Subject" width="600"/>
+</p>
 
 ## Authors 🪧
 
